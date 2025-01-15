@@ -1,6 +1,6 @@
 name: ilayda-test-hello
 base: core22
-version: '0.1'
+version: '0.2'
 summary: A trivial snap application.
 description: A simple greeting.
 
